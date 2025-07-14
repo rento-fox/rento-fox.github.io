@@ -1,7 +1,7 @@
 Rento's personal repository
 ===================
 
-#### *Last updated: 02.07.2025*
+*Last updated: 02.07.2025*
 
 <br>
 
@@ -11,4 +11,4 @@ Visit [Rento's web page](https://rento-fox.github.io "Note! doesn't open in a ne
 
 <br>
 
-#### *EOF*
+*EOF*
