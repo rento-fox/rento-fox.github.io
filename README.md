@@ -4,7 +4,7 @@
 
 <br>
 
-This repository is for hosting Rento's personal web page
+This repository is for hosting Rento's personal website.
 
 Visit [Rento's web page](https://rento-fox.github.io "Note! doesn't open in a new tab")
 
