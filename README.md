@@ -1,7 +1,6 @@
-Rento's personal repository
-===================
+*Last Updated: 31.07.2025*
 
-*Last updated: 15.07.2025*
+# Rento's personal repository
 
 <br>
 
